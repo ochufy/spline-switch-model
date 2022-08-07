@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/spline-switch-model/static/css/main.16a179de.css",
+    "main.js": "/spline-switch-model/static/js/main.7694736f.js",
+    "static/js/232.18a24ab2.chunk.js": "/spline-switch-model/static/js/232.18a24ab2.chunk.js",
+    "index.html": "/spline-switch-model/index.html",
+    "main.16a179de.css.map": "/spline-switch-model/static/css/main.16a179de.css.map",
+    "main.7694736f.js.map": "/spline-switch-model/static/js/main.7694736f.js.map",
+    "232.18a24ab2.chunk.js.map": "/spline-switch-model/static/js/232.18a24ab2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16a179de.css",
+    "static/js/main.7694736f.js"
+  ]
+}
