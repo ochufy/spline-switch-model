@@ -44,6 +44,6 @@
   "devDependencies": {
     "gh-pages": "^4.0.0"
   },
-  {"homepage":
-    "http://ochufy.github.io/spline-switch-model"}
+  "homepage":
+    "http://ochufy.github.io/spline-switch-model"
 }
